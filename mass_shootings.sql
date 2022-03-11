@@ -1,0 +1,1 @@
+Select * from mass_shootings_1971_2021;
